@@ -1,0 +1,28 @@
+Question 1:
+
+function sumElement(arr){
+    let sum = 0;
+    for(let i=0;i<arr.length;i++)
+    sum += arr[i];
+    return sum;
+}
+
+let arr = [4,8,9,20];
+console.log("Sum of given array is " + sumElement(arr));
+
+
+Question 2:
+
+function isPalindrome(string){
+    const len = string.length;
+    for(let i =0; i < len / 2; i++){
+        if(string[i] !== string[len - 1-i]){
+            return 0;
+        }
+    }
+    return 1;
+}
+
+s="NitiN"
+
+console.log(isPalindrome(s))
