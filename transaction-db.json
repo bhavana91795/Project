@@ -1,0 +1,13 @@
+{
+    "transaction-db": [
+      {
+        "id": 1,
+        "username": "bhavana",
+        "toUser": "Stacks",
+        "TransactionAmount": "100",
+        "Transactiondate": "09/12/1997",
+        "Transactiontime": "24:00:00",
+        "Status": "Pass"
+      }
+    ]
+  }

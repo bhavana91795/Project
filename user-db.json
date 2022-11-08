@@ -1,0 +1,49 @@
+{
+  "user-db": [
+    {
+      "id": "1",
+      "username": "'lol@2lol.cp",
+      "email": "lol@2l.co",
+      "pass": "123456",
+      "country": "India",
+      "age": "23",
+      "phone": "90345123547"
+    },
+    {
+      "username": "bhavana",
+      "email": "",
+      "pass": "hello",
+      "country": "",
+      "age": "",
+      "phone": "",
+      "id": "4RkMhc7"
+    },
+    {
+      "username": "bhavana91795@gmail.com",
+      "email": "",
+      "pass": "nvjvhgv",
+      "country": "",
+      "age": "",
+      "phone": "",
+      "id": "1ndzD5g"
+    },
+    {
+      "username": "bhnnmk",
+      "email": "",
+      "pass": "jkkkkk",
+      "country": "",
+      "age": "",
+      "phone": "",
+      "id": "Qgn5ulC"
+    },
+    {
+      "username": "anny",
+      "email": "anny@gmail.com",
+      "pass": "hellowo",
+      "country": "",
+      "age": "",
+      "phone": "",
+      "id": "ddyDOoy"
+    }
+  ]
+}
